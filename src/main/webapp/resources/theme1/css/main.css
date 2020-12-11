@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.date-page{
+	color: blue;
+	text-align: center;
+}
+
+.time-page{
+	color: green;
+	text-align: center;
+}
